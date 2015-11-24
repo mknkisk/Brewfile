@@ -23,6 +23,7 @@ cask 1password
 cask appcleaner
 cask atom
 cask clipmenu
+cask dash
 cask dropbox
 cask firefox
 cask google-chrome
