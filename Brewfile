@@ -20,6 +20,7 @@ appstore Xcode
 tap caskroom/cask
 brew brew-cask
 cask 1password
+cask appcleaner
 cask atom
 cask clipmenu
 cask dropbox
