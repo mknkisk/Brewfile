@@ -25,6 +25,7 @@ cask atom
 cask clipmenu
 cask dash
 cask dropbox
+cask eclipse-ide
 cask firefox
 cask google-chrome
 cask iterm2
@@ -63,6 +64,7 @@ brew rbenv
 brew readline
 brew redis
 brew ruby-build
+brew scala
 brew sqlite
 brew tig
 brew tmux
