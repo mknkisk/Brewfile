@@ -50,6 +50,7 @@ brew ricty
 brew awscli
 brew curl
 brew docker
+brew fish
 brew gibo
 brew git
 brew hub
