@@ -59,6 +59,7 @@ brew jq
 brew mongodb
 brew mysql
 brew nginx
+brew nkf
 brew openssl
 brew postgresql
 brew python
