@@ -53,6 +53,7 @@ brew docker
 brew fish
 brew gibo
 brew git
+brew go
 brew hub
 brew imagemagick
 brew jq
