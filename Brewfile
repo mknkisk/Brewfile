@@ -51,6 +51,7 @@ brew awscli
 brew curl
 brew docker
 brew fish
+brew gawk
 brew gibo
 brew git
 brew go
