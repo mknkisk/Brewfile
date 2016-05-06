@@ -63,6 +63,7 @@ brew mysql
 brew nginx
 brew nkf
 brew openssl
+brew phantomjs
 brew postgresql
 brew python
 brew rbenv
