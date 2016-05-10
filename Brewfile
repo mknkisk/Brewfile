@@ -39,6 +39,7 @@ cask sourcetree
 cask sublime-text
 cask the-unarchiver
 cask vagrant
+cask vivaldi
 cask virtualbox
 
 ## font ritcy
