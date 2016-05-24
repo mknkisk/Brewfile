@@ -25,7 +25,6 @@ cask atom
 cask clipmenu
 cask dash
 cask dropbox
-cask eclipse-ide
 cask firefox
 cask google-chrome
 cask iterm2
