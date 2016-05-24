@@ -37,6 +37,7 @@ cask skype
 cask slack
 cask sourcetree
 cask sublime-text
+cask terraform
 cask the-unarchiver
 cask vagrant
 cask vivaldi
