@@ -47,6 +47,10 @@ tap sanemat/font
 cask xquartz
 brew ricty
 
+## fisherman
+tap fisherman/tap
+brew fisherman
+
 # Other Homebrew packages
 brew awscli
 brew curl
