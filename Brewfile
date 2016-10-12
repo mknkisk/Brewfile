@@ -41,6 +41,7 @@ cask the-unarchiver
 cask vagrant
 cask vivaldi
 cask virtualbox
+cask visual-studio-code
 
 ## font ritcy
 tap sanemat/font
